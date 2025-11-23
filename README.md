@@ -1,5 +1,4 @@
-# RAG Bot (Mini-RAG) - Project Skeleton
-
+# RAG Bot (Mini-RAG) 
 This repository is a ready-to-run skeleton for the Mini-RAG Telegram/Discord bot described in your assignment.
 
 ## What is included
