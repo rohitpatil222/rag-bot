@@ -291,9 +291,3 @@ This project uses optimizations:
 - Replace SQLite with FAISS or Chroma  
 
 ---
-
-#  15. License
-
-MIT License.
-
----
